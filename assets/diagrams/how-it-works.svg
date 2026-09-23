@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="title desc">
+  <title id="title">How FORGE works</title>
+  <desc id="desc">Your team and your customers sign in to one FORGE workspace. Jobs move from a quote draft to an issued quote to a customer approval, and each shop's records stay separate.</desc>
+  <g font-family="Inter, ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+  <rect width="1200" height="560" rx="20" fill="#f5f6f1"/>
+  <text x="48" y="70" font-size="28" font-weight="800" fill="#20231f">How FORGE works</text>
+  <text x="48" y="102" font-size="16" fill="#656e61">One job record, shared by your team and your customer, each with the right view.</text>
+  <g>
+    <rect x="48" y="150" width="290" height="170" rx="14" fill="#ffffff" stroke="#dde2d6"/>
+    <text x="72" y="188" font-size="18" font-weight="700" fill="#20231f">Your team</text>
+    <text x="72" y="218" font-size="15" font-weight="400" fill="#656e61">Invited staff accounts</text>
+    <text x="72" y="242" font-size="15" font-weight="400" fill="#656e61">Add customers and open jobs</text>
+    <text x="72" y="266" font-size="15" font-weight="400" fill="#656e61">Draft and issue quotes</text>
+  </g>
+  <g>
+    <rect x="48" y="350" width="290" height="170" rx="14" fill="#ffffff" stroke="#dde2d6"/>
+    <text x="72" y="388" font-size="18" font-weight="700" fill="#20231f">Your customers</text>
+    <text x="72" y="418" font-size="15" font-weight="400" fill="#656e61">Invited customer accounts</text>
+    <text x="72" y="442" font-size="15" font-weight="400" fill="#656e61">Follow their own jobs</text>
+    <text x="72" y="466" font-size="15" font-weight="400" fill="#656e61">Approve issued quotes</text>
+  </g>
+  <g>
+    <line x1="338" y1="235" x2="400" y2="235" stroke="#536f28" stroke-width="2"/>
+    <path d="M398 229l12 6-12 6z" fill="#536f28"/>
+    <text x="374" y="225" font-size="13" font-weight="600" fill="#536f28" text-anchor="middle">Sign in</text>
+  </g>
+  <g>
+    <line x1="338" y1="435" x2="400" y2="435" stroke="#536f28" stroke-width="2"/>
+    <path d="M398 429l12 6-12 6z" fill="#536f28"/>
+    <text x="374" y="425" font-size="13" font-weight="600" fill="#536f28" text-anchor="middle">Sign in</text>
+  </g>
+  <rect x="410" y="150" width="420" height="370" rx="14" fill="#20231f"/>
+  <rect x="434" y="174" width="30" height="30" rx="7" fill="#c7ef77"/>
+  <path d="M442.4 179.5h13.2v4.2h-8.5v3.3h6.6v3.8h-6.6v6.6h-4.7z" fill="#20231f"/>
+  <rect x="455.2" y="195.2" width="4.2" height="4.2" fill="#20231f"/>
+  <text x="476" y="196" font-size="18" font-weight="800" letter-spacing="3" fill="#f7f8f3">FORGE WORKSPACE</text>
+  <text x="434" y="244" font-size="15" font-weight="400" fill="#b9c0b3">Every job keeps its customer, scope, status,</text>
+    <text x="434" y="268" font-size="15" font-weight="400" fill="#b9c0b3">due date, next action and quote history.</text>
+  <g>
+    <rect x="434" y="300" width="112" height="40" rx="20" fill="none" stroke="#4a5046"/>
+    <text x="490" y="326" font-size="15" font-weight="700" fill="#f7f8f3" text-anchor="middle">Draft</text>
+  </g>
+  <g>
+    <rect x="566" y="300" width="112" height="40" rx="20" fill="none" stroke="#4a5046"/>
+    <text x="622" y="326" font-size="15" font-weight="700" fill="#f7f8f3" text-anchor="middle">Issued</text>
+  </g>
+  <g>
+    <rect x="698" y="300" width="108" height="40" rx="20" fill="#c7ef77" stroke="#c7ef77"/>
+    <text x="752" y="326" font-size="15" font-weight="700" fill="#20231f" text-anchor="middle">Approved</text>
+  </g>
+  <path d="M550 320h12M682 320h12" stroke="#7d8577" stroke-width="2"/>
+  <text x="434" y="384" font-size="15" font-weight="400" fill="#b9c0b3">Each quote revision is kept as issued. An approval</text>
+    <text x="434" y="408" font-size="15" font-weight="400" fill="#b9c0b3">is recorded against the exact revision the</text>
+    <text x="434" y="432" font-size="15" font-weight="400" fill="#b9c0b3">customer reviewed. Approval is not a payment.</text>
+  <g>
+    <line x1="830" y1="335" x2="892" y2="335" stroke="#536f28" stroke-width="2"/>
+    <path d="M890 329l12 6-12 6z" fill="#536f28"/>
+    
+  </g>
+  <g>
+    <rect x="902" y="150" width="250" height="370" rx="14" fill="#ffffff" stroke="#dde2d6"/>
+    <text x="926" y="188" font-size="18" font-weight="700" fill="#20231f">Your shop’s records</text>
+    <text x="926" y="218" font-size="15" font-weight="400" fill="#656e61">Kept separate from</text>
+    <text x="926" y="242" font-size="15" font-weight="400" fill="#656e61">every other shop.</text>
+    <text x="926" y="266" font-size="15" font-weight="400" fill="#656e61"></text>
+    <text x="926" y="290" font-size="15" font-weight="400" fill="#656e61">Customers see only</text>
+    <text x="926" y="314" font-size="15" font-weight="400" fill="#656e61">their own jobs and</text>
+    <text x="926" y="338" font-size="15" font-weight="400" fill="#656e61">issued quotes.</text>
+    <text x="926" y="362" font-size="15" font-weight="400" fill="#656e61"></text>
+    <text x="926" y="386" font-size="15" font-weight="400" fill="#656e61">Drafts stay with</text>
+    <text x="926" y="410" font-size="15" font-weight="400" fill="#656e61">your team.</text>
+  </g>
+  </g>
+</svg>
